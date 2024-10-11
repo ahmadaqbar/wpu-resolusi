@@ -5,3 +5,9 @@ WPU RESOLUSI
 - Learn Nethowrking & Security
 - Learn Server Management
 - Learn Containers
+- Learn Containers Orchestration
+- Learn Insfrasturktur as a code
+- Learn CI/CD
+- Learn Monitroing & Observability
+- Learn One Cloud provider
+- Learn Software Engginering Practices
