@@ -1,0 +1,7 @@
+WPU RESOLUSI
+- Learn GIT
+- Learn Python
+- Learn Linux
+- Learn Nethowrking & Security
+- Learn Server Management
+- Learn Containers
