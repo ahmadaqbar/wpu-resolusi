@@ -3,3 +3,5 @@ Planning Skill
 - DevOps
 - Cyber Security
 - Web Programming
+- Design Graphics
+- Photograhpy
