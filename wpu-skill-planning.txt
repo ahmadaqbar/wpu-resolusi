@@ -3,4 +3,6 @@ Planning Skill
 - DevOps
 - Cyber Security
 - Web Programming
-- UI/IX
+- Design Graphics
+- Photograhpy
+- UI/UX
