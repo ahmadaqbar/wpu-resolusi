@@ -5,3 +5,4 @@ Planning Skill
 - Web Programming
 - Design Graphics
 - Photograhpy
+- UI/UX
